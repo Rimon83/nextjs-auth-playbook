@@ -16,11 +16,11 @@
              Built with security best practices and scalable architecture
 
 ## 📸 Project Showcase
-[Signin Page](/public/images/auth-signin.png)
-[Signup Page](/public/images/auth-signup.png)
-[Dashboard Page](/public/images/auth-dashboard.png)
-[Profile Page](/public/images/auth-profile.png)
-[Settings Page](/public/images/auth-settings.png)
+![Signin Page](/images/auth-signin.png)
+![Signup Page](/images/auth-signup.png)
+![Dashboard Page](/images/auth-dashboard.png)
+![Profile Page](/images/auth-profile.png)
+![Settings Page](/images/auth-settings.png)
 
 
 # 🧑‍💻 Getting Started with NextAuth.js (Installation & Setup)
@@ -2137,13 +2137,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 <p align="center"> <b>If you found this helpful, please ⭐ star the repository!</b><br> <i>It helps others discover the project and motivates us to keep improving.</i> </p>
 
-  ╔══════════════════════════════════════════════════════════╗
-  ║                                                          ║
-  ║   🚀 Built with ❤️ by Rimon                        ║
-  ║                                                          ║
-  ║   📝 Licensed under MIT · 🌟 Star us on GitHub!          ║
-  ║                                                          ║
-  ╚══════════════════════════════════════════════════════════╝
+ 
 
 
 
