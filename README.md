@@ -16,11 +16,11 @@
              Built with security best practices and scalable architecture
 
 ## 📸 Project Showcase
-![Signin Page](/images/auth-signin.png)
-![Signup Page](/images/auth-signup.png)
-![Dashboard Page](/images/auth-dashboard.png)
-![Profile Page](/images/auth-profile.png)
-![Settings Page](/images/auth-settings.png)
+![Signin Page](/public/images/auth-signin.png)
+![Signup Page](/public/images/auth-signup.png)
+![Dashboard Page](/public/images/auth-dashboard.png)
+![Profile Page](/public/images/auth-profile.png)
+![Settings Page](/public/images/auth-settings.png)
 
 
 # 🧑‍💻 Getting Started with NextAuth.js (Installation & Setup)
